@@ -1,4 +1,5 @@
 # deploy_flask_app
+
 Task 1: Clone the project repository
 Task 2: Create an analysis application using Watson NLP library
 Task 3: Format the output of the application
